@@ -1,0 +1,64 @@
+2020-05-25 22:57:34,656 : INFO : test_end_to_end : Getting all the card titles 
+2020-05-25 22:57:34,688 : INFO : test_end_to_end : iphone X 
+2020-05-25 22:57:34,701 : INFO : test_end_to_end : Samsung Note 8 
+2020-05-25 22:57:34,715 : INFO : test_end_to_end : Nokia Edge 
+2020-05-25 22:57:34,725 : INFO : test_end_to_end : Blackberry 
+2020-05-25 22:57:34,968 : INFO : test_end_to_end : Entering country name 
+2020-05-25 22:57:40,539 : INFO : test_end_to_end : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-05-25 23:02:36,428 : INFO : test_for_submission : First name is Amir 
+2020-05-25 23:02:37,512 : INFO : test_for_submission : First name is Munira 
+2020-05-25 23:02:37,512 : INFO : test_for_submission : First name is Munira 
+2020-05-25 23:08:07,424 : INFO : test_end_to_end : Getting all the card titles 
+2020-05-25 23:08:07,449 : INFO : test_end_to_end : iphone X 
+2020-05-25 23:08:07,462 : INFO : test_end_to_end : Samsung Note 8 
+2020-05-25 23:08:07,476 : INFO : test_end_to_end : Nokia Edge 
+2020-05-25 23:08:07,485 : INFO : test_end_to_end : Blackberry 
+2020-05-25 23:08:07,691 : INFO : test_end_to_end : Entering country name 
+2020-05-25 23:08:13,256 : INFO : test_end_to_end : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-05-25 23:08:19,717 : INFO : test_for_submission : First name is Amir 
+2020-05-25 23:08:20,851 : INFO : test_for_submission : First name is Munira 
+2020-05-25 23:08:20,851 : INFO : test_for_submission : First name is Munira 
+2020-05-25 23:34:38,316 : INFO : test_end_to_end : Getting all the card titles 
+2020-05-25 23:34:38,342 : INFO : test_end_to_end : iphone X 
+2020-05-25 23:34:38,354 : INFO : test_end_to_end : Samsung Note 8 
+2020-05-25 23:34:38,364 : INFO : test_end_to_end : Nokia Edge 
+2020-05-25 23:34:38,374 : INFO : test_end_to_end : Blackberry 
+2020-05-25 23:34:38,593 : INFO : test_end_to_end : Entering country name 
+2020-05-25 23:34:44,142 : INFO : test_end_to_end : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-05-25 23:34:50,693 : INFO : test_for_submission : First name is Amir 
+2020-05-25 23:34:51,851 : INFO : test_for_submission : First name is Munira 
+2020-05-25 23:34:51,851 : INFO : test_for_submission : First name is Munira 
+2020-05-26 00:20:42,930 : INFO : test_end_to_end : Getting all the card titles 
+2020-05-26 00:20:42,953 : INFO : test_end_to_end : iphone X 
+2020-05-26 00:20:42,971 : INFO : test_end_to_end : Samsung Note 8 
+2020-05-26 00:20:42,982 : INFO : test_end_to_end : Nokia Edge 
+2020-05-26 00:20:42,993 : INFO : test_end_to_end : Blackberry 
+2020-05-26 00:20:43,249 : INFO : test_end_to_end : Entering country name 
+2020-05-26 00:20:48,784 : INFO : test_end_to_end : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-05-26 00:20:55,140 : INFO : test_for_submission : First name is Amir 
+2020-05-26 00:20:56,261 : INFO : test_for_submission : First name is Munira 
+2020-05-26 00:20:56,261 : INFO : test_for_submission : First name is Munira 
+2020-05-26 01:05:05,745 : INFO : test_end_to_end : Getting all the card titles 
+2020-05-26 01:05:05,771 : INFO : test_end_to_end : iphone X 
+2020-05-26 01:05:05,789 : INFO : test_end_to_end : Samsung Note 8 
+2020-05-26 01:05:05,800 : INFO : test_end_to_end : Nokia Edge 
+2020-05-26 01:05:05,812 : INFO : test_end_to_end : Blackberry 
+2020-05-26 01:05:06,077 : INFO : test_end_to_end : Entering country name 
+2020-05-26 01:05:11,666 : INFO : test_end_to_end : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-05-26 01:05:17,563 : INFO : test_for_submission : First name is Amir 
+2020-05-26 01:05:18,713 : INFO : test_for_submission : First name is Munira 
+2020-05-26 01:05:18,713 : INFO : test_for_submission : First name is Munira 
+2020-05-26 12:20:04,549 : INFO : test_end_to_end : Getting all the card titles 
+2020-05-26 12:20:04,572 : INFO : test_end_to_end : iphone X 
+2020-05-26 12:20:04,588 : INFO : test_end_to_end : Samsung Note 8 
+2020-05-26 12:20:04,599 : INFO : test_end_to_end : Nokia Edge 
+2020-05-26 12:20:04,610 : INFO : test_end_to_end : Blackberry 
+2020-05-26 12:20:04,810 : INFO : test_end_to_end : Entering country name 
+2020-05-26 12:20:10,353 : INFO : test_end_to_end : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
+2020-05-26 12:20:15,732 : INFO : test_for_submission : First name is Munir 
