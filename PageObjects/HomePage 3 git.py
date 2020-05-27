@@ -14,6 +14,9 @@ class HomePage:
     gender = (By.ID, "exampleFormControlSelect1")
     submit = (By.XPATH, "//input[@value='Submit']")
     success = (By.CSS_SELECTOR, "[class*='alert-success']")
+    new_shop = (By.CSS_SELECTOR, "a[href*='shop']")
+    new_name = (By.CSS_SELECTOR, "[name='name']")
+    new_email = (By.NAME, "email")
 
     def shopitems(self):
         return self.driver.find_element(*HomePage.shop)
@@ -43,3 +46,18 @@ class HomePage:
 
         return self.driver.find_element(*HomePage.success)
 
+    def new_shopitems(self):
+        return self.driver.find_element(NewHomePage.shop)
+
+
+    def new_get_name(self):
+
+        return self.driver.find_element(NewHomePage.name)
+
+    def new_get_email(self):
+
+        return self.driver.find_element(NewHomePage.email)
+
+    def new_get_check_box(self):
+
+        return self.driver.find_element(NewHomePage.checkbox)
