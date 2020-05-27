@@ -4,7 +4,7 @@ book = openpyxl.load_workbook("/Users/vahdat/Documents/test_data_Normalization.x
 
 sheet = book.active
 
-dictionary ={}
+dictionary = {}
 
 cell = sheet.cell(row=2, column=2)
 print(cell.value)  # read value
